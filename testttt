@@ -31,6 +31,6 @@ https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma", group-title="Medi1", Medi 1 TV Maghreb
 https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TamazightTV.ma", group-title="SNRT", Tamazight
+#EXTINF:-1 tvg-id="TamazightTV.ma", group-title="SNRT", Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
