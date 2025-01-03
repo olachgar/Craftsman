@@ -34,3 +34,13 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TamazightTV.ma", group-title="SNRT", Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TF1.fr" group-title="France 🇫🇷",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="France 🇫🇷",TF1 Séries Films
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" group-title="France 🇫🇷",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" group-title="France 🇫🇷",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
