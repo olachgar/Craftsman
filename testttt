@@ -1,4 +1,6 @@
 #EXTM3U
+
+#Morrocan channels
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="2M", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma", tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlAoula.ma.png", group-title="SNRT", Al Aoula International
@@ -35,7 +37,7 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-
+#French channels
 #EXTINF:-1 tvg-id="TF1.fr" group-title="France 🇫🇷",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="France 🇫🇷",TF1 Séries Films
