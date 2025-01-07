@@ -96,6 +96,8 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #UAE channels 
+#EXTINF:-1 tvg-id="" group-title="Uae 🇦🇪" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png" ,ناشيونال جيوغرافيك أبو ظبي
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" group-title="Uae 🇦🇪" ,MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" group-title="Uae 🇦🇪" ,MBC 1
